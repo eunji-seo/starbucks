@@ -479,7 +479,7 @@ header .badges .badge{
 }
 
 .notice .promotion .swiper-pagination{
-  bottom: 0;
+  bottom: 20px;
   left: 0;
   right: 0;
 }
